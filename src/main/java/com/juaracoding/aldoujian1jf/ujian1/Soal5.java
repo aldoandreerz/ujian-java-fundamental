@@ -1,4 +1,4 @@
-package com.juaracoding.aldoujianjf.ujian1;
+package com.juaracoding.aldoujian1jf.ujian1;
 
 import java.util.Scanner;
 
